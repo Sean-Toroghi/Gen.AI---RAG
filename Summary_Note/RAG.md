@@ -8,7 +8,15 @@
 ---
 
 # <a name = 'overview'>[Overview](#up)</a>
+An overview of RAG, some of the advantages and challenges. Also, simple implementation of RAG + brief exploration of key components of RAG:  indexing, retrieval, generation, and evaluation. Finally a short summary of how to optimize each section of the RAG.
 
+## Overview
+
+## RAG pipeline
+
+## Application of RAG
+
+## Component of RAG
 
 
 
